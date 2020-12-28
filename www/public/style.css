@@ -215,6 +215,51 @@ html, body {
 	padding: 0 16px;
 }
 
+
+
+.Content__map {
+	width: 940px;
+	margin: 0 auto;
+	padding: 0 42px;
+	margin-bottom: 96px;
+}
+
+
+.All__map {
+	width: 50%;
+}
+
+
+.phone {
+	font-family: 'Roboto', sans-serif;
+	font-size: 25px;
+	font-weight: 900;
+	margin-bottom: 24px;
+}
+
+
+.nomer {
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+	margin-bottom: 24px;
+}
+
+.Adres {
+	font-family: 'Roboto', sans-serif;
+	font-size: 25px;
+	font-weight: 900;
+	margin-bottom: 24px
+}
+
+.ulitza {
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+	margin-bottom: 24px;
+}
+
+.Image__map {
+
+}
 .Landing__footer {
 	background-color: #012461;
 }
